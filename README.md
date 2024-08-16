@@ -1,10 +1,8 @@
-# HackMyVM - Pwned
-
 **Lab enviroment**
 
 Kali: **10.0.2.21**
 
-Gift: **10.0.2.22**
+Pwned: **10.0.2.22**
 
 ## 1. INFORMATION GATHERING
 ### a. Check IP Kali
